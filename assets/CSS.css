@@ -27,7 +27,7 @@ body {
     height: 982px;
 }
 
-li { 
+.ms-auto { 
     font-size: 32px; 
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;}
@@ -87,6 +87,7 @@ li {
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
     color: #E8F0F5;
+    padding-top: 40px;
 }
 
 .Vamos-isto {
@@ -96,7 +97,125 @@ li {
     color: #E8F0F5;
     border: none;
     cursor: pointer;
-    padding: 32px;
     background-color: transparent;
-    margin-left: 50px;
+    padding-top: 100px;
+}
+
+.Vamos-isto img {
+    padding-left: 10px;
+}
+
+.col-7 img{
+    float: left;
+    width: 950px;
+}
+
+.banner-rotativo {
+    font-size: 60px;
+    background-color: #6F7062;
+    color: #414139;
+    font-family: "SwedenSans", Georgia;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.marq-text {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: #E69900;
+    background-image: url(../assets/images/footer-siglas.png);
+}
+
+.button-footer-homepage-ig {
+    background-image: url(../assets/images/ig-footer-homepage.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 25px;
+    background-color: transparent;
+    margin-right: 10px;
+}
+
+.button-footer-homepage-yt {
+    background-image: url(../assets/images/yt-footer-homepage.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 25px;
+    background-color: transparent;
+    margin-right: 10px;
+}
+
+.button-footer-homepage-in {
+    background-image: url(../assets/images/in-footer-homepage.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 25px;
+    background-color: transparent;
+}
+
+.button-footer-homepage-fb {
+    background-image: url(../assets/images/fb-footer-homepage.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 25px;
+    background-color: transparent;
+    margin-right: 10px;
+}
+
+label {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: regular;
+    font-style: normal;
+    font-size: 24px;
+    color: #FFF2D9;
+    padding-top: 10px;
+}
+
+.caixa-email {
+    width: 95%;
+    height: 50px;
+    border: 3px solid #FFF2D9;
+    background-color: #E69900;
+    color: #FFF2D9;
+    font-family: "SwedenSans", Georgia;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.botao-email {
+    background-image: url(../assets/images/botão-homepage-footer.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding-top: 32px;
+    padding-left: 84px;
+    background-color: transparent;
+    color: transparent;
+}
+
+.breadcrumb {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: regular;
+    font-style: normal;
+    font-size: 20px;
+    color: #FFF2D9;
+    padding-top: 10px;
+}
+
+.breadcrumb-item a {
+    text-decoration: none;
+    color: #FFF2D9;
 }
