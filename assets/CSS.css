@@ -219,3 +219,8 @@ label {
     text-decoration: none;
     color: #FFF2D9;
 }
+
+.banner-ig {
+    overflow: hidden;
+    display: flex;
+}
