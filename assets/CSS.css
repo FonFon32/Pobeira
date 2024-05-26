@@ -10,6 +10,8 @@
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
     color: #2E4654;
+    letter-spacing: 10%;
+    line-height: 80%;
 }
 
 .cerveja-sabor {
@@ -43,13 +45,24 @@ body {
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
     color: #4D748C;
+    margin-top: 150px;
+    margin-left: 10px;
 }
+
+.Pobeiras-banner {
+    font-size: 30px;
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+    color: #E69900;
+    margin-top: 150px;
+}
+
 
 .Subtitulo_Pobeiras {
     font-size: 30px;
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
-    color: #E69900;
+    color: #2E4654;
 }
 
 .Subtitulo_Pobeiras_Azul {
@@ -66,9 +79,10 @@ body {
     background-position: center;
     border: none;
     cursor: pointer;
-    padding: 32px;
+    padding: 30px;
     background-color: transparent;
     margin-right: 50px;
+    margin-top: 120px;
 }
 
 .button-svg-right {
@@ -77,8 +91,9 @@ body {
     background-position: center;
     border: none;
     cursor: pointer;
-    padding: 32px;
+    padding: 30px;
     background-color: transparent;
+    margin-top: 120px;
     margin-left: 50px;
 }
 
@@ -127,6 +142,7 @@ body {
 footer {
     background-color: #E69900;
     background-image: url(../assets/images/footer-siglas.png);
+    color: #FFF2D9;
 }
 
 .button-footer-homepage-ig {
@@ -211,16 +227,71 @@ label {
     font-weight: regular;
     font-style: normal;
     font-size: 20px;
-    color: #FFF2D9;
     padding-top: 10px;
 }
 
 .breadcrumb-item a {
     text-decoration: none;
-    color: #FFF2D9;
+    font-size: 25px;
+    color: #2E4654;
+    font-weight: bold;
+    margin-right: 15px;
+    margin-bottom: 20px;
 }
+
+
+
 
 .banner-ig {
     overflow: hidden;
     display: flex;
 }
+
+.Corpo {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: regular;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.Pobeiras2 {
+    font-size: 60px;
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+    color: #4D748C;
+    margin-left: 10px;
+}
+
+.button-svg-left1 {
+    background-image: url(../assets/images/SiglaButtonLeft.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding-right: 58px;
+    padding-top: 70px;
+    background-color: transparent;
+    margin-right: 20px;
+}
+
+.button-svg-right1 {
+    background-image: url(../assets/images/SiglaButtonRight.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding-right: 58px;
+    padding-top: 70px;
+    background-color: transparent;
+    margin-left: 20px;
+}
+
+.Pick-Vibe {
+    font-size: 60px;
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+    color: #2E4654;
+    margin-top: 20px;
+}
+

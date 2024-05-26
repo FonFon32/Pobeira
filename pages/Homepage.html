@@ -84,19 +84,39 @@
 
   <div class="container-fluid py-1" style="background-color: #E8F0F5;"> <!-- 1-->
     <div class="row my-5 py-5">
-      <div class="col-2">
-        <h2 class="AsPobeirasBeach">As Pobeiras</h2>
-        <span></span>
+      <div class="col">
+        <h2 class="AsPobeirasBeach">As Po bei ras</h2>
       </div>
-      <div class="col-4">
-        <h3 class="Pobeiras">Inspirada pelo mundo</h3>
-        <h3 class="Subtitulo_Pobeiras">enriquecida pelo contraste entre tradição e ousadia de inovar.</h3>
-        <button class="button-svg-left"></button>
-        <button class="button-svg-right"></button>
+      <div class="col">
+        <div id="carouselExample" class="carousel slide">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="../assets/images/cerveja_pobeiras_beach.png" class="d-block h-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="..." class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+              <img src="..." class="d-block w-100" alt="...">
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="col-3 mx-5">
-        <p>A Beach Lager respira frescura e sabor despertando sensações daqueles dias de praia, sunsets incríveis e convívios até de madrugada</p>
-        <p>Reúne as tuas amigas e amigos e deixa-te levar por esta onda de sabor!</p>
+      <div class="col-3 mx-3">
+        <h3 class="Pobeiras-banner">Inspirada pelo mundo</h3>
+        <h3 class="Subtitulo_Pobeiras mb-1">enriquecida pelo contraste entre tradição e ousadia de inovar.</h3>
+        <button class="button-svg-left" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+          <span class="" aria-hidden="true"></span> <!--carousel-control-prev-icon -->
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="button-svg-right" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+          <span class="" aria-hidden="true"></span> <!-- carousel-control-next-icon-->
+          <span class="visually-hidden">Next</span> 
+        </button>
+      </div>
+      <div class="col mx-5 mt-5" style="margin-top: 150px !important;">
+        <p class="Corpo">A Beach Lager respira frescura e sabor despertando sensações daqueles dias de praia, sunsets incríveis e convívios até de madrugada</p>
+        <p class="Corpo">Reúne as tuas amigas e amigos e deixa-te levar por esta onda de sabor!</p>
       </div>
     </div>
   </div> <!-- 1-->
@@ -130,10 +150,68 @@
   </div>
 </div>
 <!-- Pick a vibe ///////////////////////////-->
-<div class="container-fluid">
+<div class="container-fluid" style="background-color: #E8F0F5;">
   <div class="row">
-    <div class="col"></div>
-    <div class="col"></div>
+    <div class="col-5 m-5">
+      <h1 class="AsPobeirasBeach">Escolhe a vibe</h1>
+    </div>
+    <div class="col-4 offset-2">
+      <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="../assets/images/Beach-Banner-Vibe.png" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="..." class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="..." class="d-block w-100" alt="...">
+          </div>
+        </div>
+        <button class="button-svg-left1" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <Span class="Pick-Vibe">Beach View</Span>
+        <button class="button-svg-right1" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+        <button class="button-svg-left1" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <Span class="Pick-Vibe">Porto</Span>
+        <button class="button-svg-right1" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-6 mt-5 mx-5 gap-3">
+      <nav style="--bs-breadcrumb-divider: none;" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="#">Ultramarino</a></li>
+          <li class="breadcrumb-item"><a href="#">Home</a></li>
+          <li class="breadcrumb-item"><a href="#">Ultramarino</a></li>
+          <li class="breadcrumb-item"><a href="#">Home</a></li>
+          <li class="breadcrumb-item"><a href="#">Ultramarino</a></li>
+        </ol>
+      </nav>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-5 mx-5 gap-3 mb-5">
+      <nav style="--bs-breadcrumb-divider: none;" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="#">Ultramarino</a></li>
+          <li class="breadcrumb-item"><a href="#">Home</a></li>
+          <li class="breadcrumb-item"><a href="#">Ultramarino</a></li>
+        </ol>
+      </nav>
+    </div>
   </div>
 </div>
 <!-- footer scroller de redes sociais /////////////////////////////-->
@@ -175,8 +253,8 @@
           </ol>
         </nav>
       </div>
-      <div class="col offset-4 p-5">
-        <h2 class="Pobeiras" style="color: #FFF2D9 !important;">Junta-te à mailing list</h2>
+      <div class="col offset-4 px-5 my-5">
+        <h2 class="Pobeiras2" style="color: #FFF2D9 !important;">Junta-te à mailing list</h2>
         <form action="">
           <label for="email" class="pb-3">Sê o primeiro a saber das novidades mais fresquinhas que a pobeira tem a oferecer:</label>
           <input type="email" name="email" required class="caixa-email">
