@@ -22,7 +22,12 @@ nav .nav-link {
 }
    
 
-
+.NavBar {
+    background-image: url('../assets/images/hero_pobeira.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
 
 * #Lager h1 {
 
