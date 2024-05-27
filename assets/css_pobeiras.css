@@ -11,8 +11,10 @@ p {
 }
 
 nav .nav-link {
-    font-family: 'Noto Sans JP';
-    color: #2E4654;   
+    font-family: "SwedenSans", Georgia;
+    font-size: 25px;   
+    font-weight:normal ;
+    
 }
 
 .col-md-6 h1 {
@@ -21,13 +23,15 @@ nav .nav-link {
     font-weight: bold;
 }
    
-
 .NavBar {
-    background-image: url('../assets/images/hero_pobeira.png');
+    background-image: url('../assets/images/pobeiras_hero.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 600px;
 }
+
+   
+
 
 * #Lager h1 {
 
