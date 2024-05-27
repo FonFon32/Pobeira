@@ -23,6 +23,7 @@ nav .nav-link {
    
 
 
+
 * #Lager h1 {
 
     color: #2E4654; 
@@ -77,6 +78,14 @@ nav .nav-link {
 
 }
 
+*#hero_pobeiras {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    max-width: 1512px;
+    max-height: fit-content;
+}
+
+
 
 footer {
     background-color: #E69900;
@@ -104,6 +113,7 @@ footer {
     padding: 25px;
     background-color: transparent;
     margin-right: 10px;
+    
 }
 
 .button-footer-homepage-in {
@@ -132,7 +142,7 @@ label {
     font-optical-sizing: auto;
     font-weight: regular;
     font-style: normal;
-    font-size: 24px;
+    font-size: 15px;
     color: #FFF2D9;
     padding-top: 10px;
 }
@@ -165,15 +175,22 @@ label {
     font-optical-sizing: auto;
     font-weight: regular;
     font-style: normal;
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 10px;
 }
 
 .breadcrumb-item a {
     text-decoration: none;
-    font-size: 25px;
+    font-size: 15px;
     color: #2E4654;
-    font-weight: bold;
     margin-right: 15px;
     margin-bottom: 20px;
+}
+
+.Pobeiras2 {
+    font-size: 30px;
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+    color: #4D748C;
+    margin-left: 10px;
 }
