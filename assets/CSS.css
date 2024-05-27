@@ -113,6 +113,7 @@ body {
     border: none;
     cursor: pointer;
     background-color: transparent;
+    text-decoration: none;
     padding-top: 100px;
 }
 
