@@ -1,0 +1,43 @@
+.ms-auto { 
+    font-size: 32px; 
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;}
+
+.NavBar {
+    background-image: url('./images/hero-serviços.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.PPT {
+    font-size: 180px; 
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+}
+
+.PPT-100 {
+    font-size: 100px; 
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+}
+
+.Cor-font-1 {
+    color: #2E4654;
+}
+
+.PPT-60 {
+    font-size: 60px; 
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+}
+
+.PPT-30 {
+    font-size: 30px; 
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+}
+
+.Cor-font-2 {
+    color: #FFAA00;
+}
