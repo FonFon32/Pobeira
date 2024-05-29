@@ -1,7 +1,8 @@
 .ms-auto { 
-    font-size: 32px; 
+    font-size: 22px; 
     font-family: "SwedenSans", Georgia; 
-    font-weight: bold;}
+    font-weight: bold;
+}
 
 .NavBar {
     background-image: url('./images/hero-serviços.png');
@@ -10,26 +11,28 @@
     height: 500px;
 }
 
-.PPT {
-    font-size: 180px; 
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
-}
+/*Começo do tamanho fonts */
 
-.PPT-100 {
+.PPT {
     font-size: 100px; 
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
 }
 
-.PPT-60 {
-    font-size: 60px; 
+.PPT-70 {
+    font-size: 70px; 
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
 }
 
 .PPT-30 {
     font-size: 30px; 
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+}
+
+.PPT-20 {
+    font-size: 20px; 
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
 }
@@ -41,6 +44,8 @@
     font-style: normal;
     font-size: 24px;
 }
+
+/*Cor das fonts*/
 
 .Cor-font-1 {
     color: #2E4654;
@@ -58,6 +63,10 @@
     color: #CC8800;
 }
 
+.Cor-font-5 {
+    color: #996600;;
+}
+
 .Cor-font-azul1 {
     color: #669BBB;
 }
@@ -71,6 +80,7 @@
 .Cor-font-castanho1 {
     color: #414139;
 }
+
 
 .marq-text {
     padding-left: 100px;
@@ -90,7 +100,17 @@
     width: 100.8%;
 }
 
-/* FOOOTER IMPORTADO */
+.img-form {
+    height: 650px;
+    width: auto;
+}
+
+.img-corpo {
+    height: 450px;
+    width: auto;
+}
+
+/* FOOTER IMPORTADO */
 
 footer {
     background-color: #669BBB;
@@ -160,7 +180,7 @@ footer {
 }
 
 .Pobeiras2 {
-    font-size: 60px;
+    font-size: 30px;
     font-family: "SwedenSans", Georgia; 
     font-weight: bold;
     color: #4D748C;
@@ -168,7 +188,7 @@ footer {
 
 .caixa-email {
     width: 95%;
-    height: 50px;
+    height: 40px;
     border: 3px solid #E9EBF8;
     background-color: #669BBB;
     color: #E9EBF8;
@@ -191,7 +211,7 @@ footer {
 
 .caixa-form {
     width: 100%;
-    height: 50px;
+    height: 35px;
     border: 3px solid #414139;
     background-color: #E9EAE2;
     color: #414139;
