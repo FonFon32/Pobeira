@@ -1,233 +1,232 @@
-.ms-auto { 
-    font-size: 22px; 
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
+.ms-auto {
+  font-size: 22px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
 }
 
 .NavBar {
-    background-image: url('./images/hero-serviços.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
+  background-image: url("./images/hero-serviços.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
 }
 
 /*Começo do tamanho fonts */
 
 .PPT {
-    font-size: 100px; 
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
+  font-size: 100px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
 }
 
 .PPT-70 {
-    font-size: 70px; 
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
+  font-size: 70px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
 }
 
 .PPT-30 {
-    font-size: 30px; 
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
+  font-size: 30px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
 }
 
 .PPT-20 {
-    font-size: 20px; 
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
+  font-size: 20px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
 }
 
 .NotoSans-Corpo {
-    font-family: "Noto Sans JP", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: regular;
-    font-style: normal;
-    font-size: 24px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: regular;
+  font-style: normal;
+  font-size: 24px;
 }
 
 /*Cor das fonts*/
 
 .Cor-font-1 {
-    color: #2E4654;
+  color: #2e4654;
 }
 
 .Cor-font-2 {
-    color: #FFAA00;
+  color: #ffaa00;
 }
 
 .Cor-font-3 {
-    color: #5C8CA8;
+  color: #5c8ca8;
 }
 
 .Cor-font-4 {
-    color: #CC8800;
+  color: #cc8800;
 }
 
 .Cor-font-5 {
-    color: #996600;;
+  color: #996600;
 }
 
 .Cor-font-azul1 {
-    color: #669BBB;
+  color: #669bbb;
 }
 .Cor-font-azul2 {
-    color: #4D748C;
+  color: #4d748c;
 }
 .Cor-font-azul3 {
-    color: #669BBB;
+  color: #669bbb;
 }
 
 .Cor-font-castanho1 {
-    color: #414139;
+  color: #414139;
 }
 
-
 .marq-text {
-    padding-left: 100px;
-    font-family: "SwedenSans", Georgia;
-    font-weight: bold;
+  padding-left: 100px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
 }
 
 .banner-rotativo-PPT {
-    white-space: nowrap;
-    overflow: hidden;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .background-form-serviços {
-    background-image: url(../assets/images/background-serviços.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100.8%;
+  background-image: url(../assets/images/background-serviços.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100.8%;
 }
 
 .img-form {
-    height: 650px;
-    width: auto;
+  height: 650px;
+  width: auto;
 }
 
 .img-corpo {
-    height: 450px;
-    width: auto;
+  height: 450px;
+  width: auto;
 }
 
 /* FOOTER IMPORTADO */
 
 footer {
-    background-color: #669BBB;
-    background-image: url(../assets/images/footer-siglas.png);
-    color: #FFFFFF;
+  background-color: #669bbb;
+  background-image: url(../assets/images/footer-siglas.png);
+  color: #ffffff;
 }
 
 .button-footer-homepage-ig {
-    background-image: url(../assets/images/ig-footer-homepage.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: none;
-    cursor: pointer;
-    padding: 25px;
-    background-color: transparent;
-    margin-right: 10px;
+  background-image: url(../assets/images/ig-footer-homepage.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding: 25px;
+  background-color: transparent;
+  margin-right: 10px;
 }
 
 .button-footer-homepage-yt {
-    background-image: url(../assets/images/yt-footer-homepage.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: none;
-    cursor: pointer;
-    padding: 25px;
-    background-color: transparent;
-    margin-right: 10px;
+  background-image: url(../assets/images/yt-footer-homepage.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding: 25px;
+  background-color: transparent;
+  margin-right: 10px;
 }
 
 .button-footer-homepage-in {
-    background-image: url(../assets/images/in-footer-homepage.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: none;
-    cursor: pointer;
-    padding: 25px;
-    background-color: transparent;
+  background-image: url(../assets/images/in-footer-homepage.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding: 25px;
+  background-color: transparent;
 }
 
 .button-footer-homepage-fb {
-    background-image: url(../assets/images/fb-footer-homepage.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: none;
-    cursor: pointer;
-    padding: 25px;
-    background-color: transparent;
-    margin-right: 10px;
+  background-image: url(../assets/images/fb-footer-homepage.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding: 25px;
+  background-color: transparent;
+  margin-right: 10px;
 }
 
 .breadcrumb {
-    font-family: "Noto Sans JP", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: regular;
-    font-style: normal;
-    font-size: 20px;
-    padding-top: 10px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: regular;
+  font-style: normal;
+  font-size: 20px;
+  padding-top: 10px;
 }
 
 .breadcrumb-item a {
-    text-decoration: none;
-    font-size: 20px;
-    color: #FFFFFF;
-    font-weight: bold;
-    margin-right: 15px;
-    margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-right: 15px;
+  margin-bottom: 20px;
 }
 
 .Pobeiras2 {
-    font-size: 30px;
-    font-family: "SwedenSans", Georgia; 
-    font-weight: bold;
-    color: #4D748C;
+  font-size: 30px;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
+  color: #4d748c;
 }
 
 .caixa-email {
-    width: 95%;
-    height: 40px;
-    border: 3px solid #E9EBF8;
-    background-color: #669BBB;
-    color: #E9EBF8;
-    font-family: "SwedenSans", Georgia;
-    font-weight: bold;
-    font-size: 18px;
+  width: 95%;
+  height: 40px;
+  border: 3px solid #e9ebf8;
+  background-color: #669bbb;
+  color: #e9ebf8;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .botao-email {
-    background-image: url(../assets/images/botão-serviços-footer.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: none;
-    cursor: pointer;
-    padding-top: 10px;
-    padding-left: 34px;
-    background-color: transparent;
-    color: transparent;
+  background-image: url(../assets/images/botão-serviços-footer.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-left: 34px;
+  background-color: transparent;
+  color: transparent;
 }
 
 .caixa-form {
-    width: 100%;
-    height: 35px;
-    border: 3px solid #414139;
-    background-color: #E9EAE2;
-    color: #414139;
-    font-family: "SwedenSans", Georgia;
-    font-weight: bold;
-    font-size: 18px;
+  width: 100%;
+  height: 35px;
+  border: 3px solid #414139;
+  background-color: #e9eae2;
+  color: #414139;
+  font-family: "SwedenSans", Georgia;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .botao-form {
-    background-image: url(../assets/images/botão-serviços-form.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    border: none;
-    cursor: pointer;
-    padding-top: 32px;
-    padding-left: 103px;
-    background-color: transparent;
-    color: transparent;
+  background-image: url(../assets/images/botão-serviços-form.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding-top: 32px;
+  padding-left: 103px;
+  background-color: transparent;
+  color: transparent;
 }
