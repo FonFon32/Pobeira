@@ -27,7 +27,7 @@
 }
 
 body {
-    background-image: url('../images/hero_novo.png');
+    background-image: url('../assets/images/hero_novo.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 982px;
