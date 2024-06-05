@@ -31,7 +31,7 @@ nav .nav-link {
 }
 
 .Hero_Pobeiras {
-    background-image: url('./images/hero_novo.png');
+    background-image: url('../assets/images/hero_pobeira.png');
     background-repeat: no-repeat;
     background-size:cover;
     height:auto;
