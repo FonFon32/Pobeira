@@ -5,7 +5,7 @@
   }
   
   .NavBar {
-    background-image: url("./images/hero-serviços.png");
+    background-image: url("../assets/images/hero-serviços.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -101,7 +101,7 @@
   }
   
   .background-form-serviços {
-    background-image: url(../assets/images/background-serviços.png);
+    background-image: url(../assets/images/background-serviços.png);
     background-repeat: no-repeat;
     background-position: center;
     width: 100.8%;
