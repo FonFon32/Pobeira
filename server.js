@@ -4,7 +4,7 @@ let port = 3000
 let app = express()
 
 app.use(express.json())
-app.use(express.static('pages'));
+app.use(express.static('public'));
 
 const uri = 'mongodb+srv://40230383:AspCC5GsyPvykzWi@cluster0.e8qcqeu.mongodb.net/Pobeira?retryWrites=true&w=majority&appName=Cluster0'
 mongoose.connect(uri)
@@ -63,5 +63,5 @@ app.post('/pobeiras', function (req, res) {
 ////app listen /////////////////////////////////////
 
 app.listen(port, function() {
-    console.log('Connected to http://', port)
+    console.log('Connected to http://localhost/', port)
 });
