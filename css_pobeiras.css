@@ -1,0 +1,235 @@
+p {
+    font-family: 'Noto Sans JP';
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.Pobeiras2 h2 {
+    font-size: 60px;
+    font-family: 'Noto Sans JP';
+
+}
+
+nav .nav-link {
+    font-family: "SwedenSans", Georgia;
+    font-size: 25px;
+}
+
+.col-md-6 h1 {
+    font-size: 100px;
+    font-family: 'Sweden Sans';
+    font-weight: bold;
+}
+
+.Sabores {
+    font-size: 100px;
+    font-family: "SwedenSans", Georgia; 
+    font-weight: bold;
+    color: #2E4654;
+    letter-spacing: 10%;
+    line-height: 95%;
+}
+
+.Hero_Pobeiras {
+    background-image: url('./images/hero_novo.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:auto;
+}
+
+
+
+
+* #Lager h1 {
+
+    color: #2E4654;
+
+}
+
+* #Lager p {
+
+    color: #4D748C;
+}
+
+
+
+
+* #Nata h1 {
+
+    color: #580F11;
+
+}
+
+* #Nata p {
+
+    color: #734C00;
+
+}
+
+
+* #RedAle h1 {
+
+    color: #580F11;
+
+}
+
+* #RedAle p {
+
+    color: #921A1C;
+
+}
+
+
+
+* #comp {
+
+    padding-top: 20px;
+
+}
+
+
+.section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+*#hero_pobeiras {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    max-width: 1512px;
+    max-height: fit-content;
+}
+
+
+
+footer {
+    background-color: #E69900;
+    background-image: url(../assets/images/footer-siglas.png);
+    color: #FFF2D9;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+
+}
+
+.button-footer-homepage-ig {
+    background-image: url(../assets/images/icons8-instagram.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    background-color: transparent;
+
+}
+
+.button-footer-homepage-yt {
+    background-image: url(../assets/images/icons8-youtube.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    background-color: transparent;
+
+
+}
+
+.button-footer-homepage-in {
+    background-image: url(../assets/images/icons8-linkedin.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.button-footer-homepage-fb {
+    background-image: url(../assets/images/icons8-facebook.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    padding: 20px;
+    background-color: transparent;
+
+}
+
+label {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: regular;
+    font-style: normal;
+    font-size: 15px;
+    color: #FFF2D9;
+    
+}
+
+.caixa-email {
+    width: 19rem;
+    height: 3rem ;
+    border: 3px solid #FFF2D9;
+    background-color: #E69900;
+    color: #FFF2D9;
+    font-family: "SwedenSans", Georgia;
+    font-size: 15px;
+}
+
+.botao {
+    background-image: url(../assets/images/botão-homepage-footer_1.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+
+
+.Pobeiras2 {
+    font-size: 30px;
+    font-family: "SwedenSans", Georgia;
+    color: #4D748C;
+}
+
+
+* #footer_pobeira {
+    text-align: center;
+}
+
+
+* #footer_links {
+text-align: center;
+}
+
+* #footer_links a {
+
+    color: #FFF2D9 ;
+}
+
+
+* #botoes {
+
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    }
