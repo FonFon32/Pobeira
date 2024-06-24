@@ -4,6 +4,9 @@ p {
     padding-top: 10px;
 }
 
+.navbar {
+--bs-navbar-padding-y: 0rem !important;
+}
 .Pobeiras2 h2 {
     font-size: 60px;
     font-family: 'Noto Sans JP';
@@ -31,10 +34,10 @@ nav .nav-link {
 }
 
 .Hero_Pobeiras {
-    background-image: url('assets/images/hero_novo.png');
+    background-image: url('/assets/images/hero_novo.png');
     background-repeat: no-repeat;
-    background-size:cover;
-    height:auto;
+    background-size: contain;
+    height: 18rem;
 }
 
 
@@ -94,12 +97,6 @@ nav .nav-link {
 
 }
 
-*#hero_pobeiras {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    max-width: 1512px;
-    max-height: fit-content;
-}
 
 
 
