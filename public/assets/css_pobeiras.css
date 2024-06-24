@@ -7,6 +7,8 @@ p {
 .navbar {
 --bs-navbar-padding-y: 0rem !important;
 }
+
+
 .Pobeiras2 h2 {
     font-size: 60px;
     font-family: 'Noto Sans JP';
@@ -174,21 +176,15 @@ label {
 }
 
 .botao {
-    background-image: url(../assets/images/botão-homepage-footer_1.png);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: none;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    
+  background-image: url(../assets/images/botão-serviços-footer.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-left: 34px;
+  background-color: transparent;
+  color: transparent;
 }
 
 
