@@ -26,7 +26,16 @@ const pobeiraSchema = new mongoose.Schema({
     corpo2: String,
     headliner: String,
     headliner2: String,
+    headlinerstyle: String,
+    headliner2style: String,
+    nameclass: String,
     imagem: String,
+    status: String,
+    corpostyle: String,
+    bg: String,
+    bgimg: String,
+    btnleft: String,
+    btnright: String,
     ebc: Number,
     ibu: Number
 }, { versionKey: false });
