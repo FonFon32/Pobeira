@@ -166,17 +166,17 @@ label {
 }
 
 .caixa-email {
-    width: 95%;
+    width: 65%;
     height: 2.188rem ;
     border: 3px solid #FFF2D9;
-    background-color: #E69900;
+    background-color: #FFE5B0;
     color: #FFF2D9;
     font-family: "SwedenSans", Georgia;
     font-size: 15px;
 }
 
 .botao {
-  background-image: url(../assets/images/botão-serviços-footer.png);
+  background-image: url(../assets/images/botão-homepage-footer_1.png);
   background-repeat: no-repeat;
   background-position: center;
   border: none;

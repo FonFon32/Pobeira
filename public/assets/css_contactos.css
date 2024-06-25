@@ -71,7 +71,7 @@
 
 
   .background-form-serviços {
-    background-image: url(../public/assets/images/background-serviços.png);
+    background-image: url(/assets/images/background-serviços.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -101,7 +101,7 @@
 }
 
 .botao-form {
-  background-image: url(../public/assets/images/botão-contactos-form.png);
+  background-image: url(/assets/images/botão-contactos-form.png);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
@@ -139,14 +139,14 @@ body {
   
 footer {
   background-color: #777777;
-  background-image: url(../public/assets/images/footer-siglas-contactos.png);
+  background-image: url(/assets/images/footer-siglas-contactos.png);
   background-repeat: no-repeat;
   background-position: center;
   color: #F6F6F6;
 }
 
 .button-footer-homepage-ig {
-  background-image: url(../public/assets/images/ig-footer-homepage.svg);
+  background-image: url(/assets/images/ig-footer-homepage.svg);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
@@ -160,7 +160,7 @@ footer {
 }
 
 .button-footer-homepage-yt {
-  background-image: url(../public/assets/images/yt-footer-homepage.svg);
+  background-image: url(/assets/images/yt-footer-homepage.svg);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
@@ -174,7 +174,7 @@ footer {
 }
 
 .button-footer-homepage-in {
-  background-image: url(../public/assets/images/in-footer-homepage.svg);
+  background-image: url(/assets/images/in-footer-homepage.svg);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
@@ -187,7 +187,7 @@ footer {
 }
 
 .button-footer-homepage-fb {
-  background-image: url(../public/assets/images/fb-footer-homepage.svg);
+  background-image: url(/assets/images/fb-footer-homepage.svg);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
@@ -233,16 +233,17 @@ footer {
 }
 
 .botao-email {
-  background-image: url(../public/assets/images/botão-contactos-footer.png);
+  background-image: url(/assets/images/botão-contactos-footer.png);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
   cursor: pointer;
   padding-top: 6px;
   padding-bottom: 5px;
-  padding-left: 16px;
-  padding-right: 16px;
+  padding-left: 15px;
+  padding-right: 22px;
   background-color: transparent;
   color: transparent;
 }
+
 

@@ -8,7 +8,7 @@
   background-image: url("./images/hero-serviços.png");
   background-repeat: no-repeat;
   background-size: contain;
-  width: auto;
+  height: 18rem;
 }
 
 /*Começo do tamanho fonts */
@@ -200,13 +200,15 @@ footer {
 }
 
 .botao-email {
-  background-image: url(../assets/images/botão-serviços-footer.png);
+  background-image: url(/assets/images/botão-serviços-footer.png);
   background-repeat: no-repeat;
   background-position: center;
   border: none;
   cursor: pointer;
   padding-top: 10px;
-  padding-left: 34px;
+  padding-left: 12px;
+  padding-right: 15px;
+  padding-bottom: 10px;
   background-color: transparent;
   color: transparent;
 }
