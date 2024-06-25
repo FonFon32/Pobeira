@@ -139,7 +139,7 @@ body {
 }
 
 .button-svg-left {
-    background-image: url(../assets/images/SiglaButtonLeft.png);
+    background-image: url(/assets/images/SiglaButtonLeft.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -151,7 +151,7 @@ body {
 }
 
 .button-svg-right {
-    background-image: url(../assets/images/SiglaButtonRight.png);
+    background-image: url(/assets/images/SiglaButtonRight.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -165,7 +165,7 @@ body {
 /* Stout Buttons*/
 
 .button-svg-left-st {
-    background-image: url(../assets/images/SiglaButtonLeftST.png);
+    background-image: url(/assets/images/SiglaButtonLeftST.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -177,7 +177,7 @@ body {
 }
 
 .button-svg-right-st {
-    background-image: url(../assets/images/SiglaButtonRightST.png);
+    background-image: url(/assets/images/SiglaButtonRightST.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -191,7 +191,7 @@ body {
 /* Ale Carnation Buttons*/
 
 .button-svg-left-ac {
-    background-image: url(../assets/images/SiglaButtonLeftAC.png);
+    background-image: url(/assets/images/SiglaButtonLeftAC.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -203,7 +203,7 @@ body {
 }
 
 .button-svg-right-ac {
-    background-image: url(../assets/images/SiglaButtonRightAC.png);
+    background-image: url(/assets/images/SiglaButtonRightAC.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -259,12 +259,12 @@ body {
 
 footer {
     background-color: #E69900;
-    background-image: url(../assets/images/footer-siglas.png);
+    background-image: url(/assets/images/footer-siglas.png);
     color: #FFF2D9;
 }
 
 .button-footer-homepage-ig {
-    background-image: url(../assets/images/ig-footer-homepage.png);
+    background-image: url(/assets/images/ig-footer-homepage.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -275,7 +275,7 @@ footer {
 }
 
 .button-footer-homepage-yt {
-    background-image: url(../assets/images/yt-footer-homepage.png);
+    background-image: url(/assets/images/yt-footer-homepage.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -286,7 +286,7 @@ footer {
 }
 
 .button-footer-homepage-in {
-    background-image: url(../assets/images/in-footer-homepage.png);
+    background-image: url(/assets/images/in-footer-homepage.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -296,7 +296,7 @@ footer {
 }
 
 .button-footer-homepage-fb {
-    background-image: url(../assets/images/fb-footer-homepage.png);
+    background-image: url(/assets/images/fb-footer-homepage.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -328,7 +328,7 @@ label {
 }
 
 .botao-email {
-    background-image: url(../assets/images/botão-homepage-footer.png);
+    background-image: url(/assets/images/botão-homepage-footer.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -382,7 +382,7 @@ label {
 }
 
 .button-svg-left1 {
-    background-image: url(../assets/images/siglaButtonVibeL.png);
+    background-image: url(/assets/images/siglaButtonVibeL.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -396,7 +396,7 @@ label {
 }
 
 .button-svg-right1 {
-    background-image: url(../assets/images/siglaButtonVibeR.png);
+    background-image: url(/assets/images/siglaButtonVibeR.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
