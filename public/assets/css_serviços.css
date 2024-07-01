@@ -5,7 +5,7 @@
 }
 
 .NavBar {
-  background-image: url("/images/hero-serviços.png");
+  background-image: url('/assets/images/hero-serviços.png');
   background-repeat: no-repeat;
   background-size: contain;
   height: 18rem;
